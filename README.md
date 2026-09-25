@@ -1,1 +1,1 @@
-Code for bachelor thesis
+Code and report for bachelor thesis
